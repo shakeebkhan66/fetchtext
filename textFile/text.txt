@@ -1,0 +1,8 @@
+Progress Indicator Flutter Application
+
+What will we learn in this Application??
+
+1- Linear Progress Indicator
+2- Circular Progress Indicator
+3- Determinate
+4- Indeterminate (We use the indeterminate progress indicator when we don't have clear idea about the completion of the proecess)
